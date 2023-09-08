@@ -1,0 +1,8 @@
+{
+  "name": "Mytilus",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0509941b"
+}
